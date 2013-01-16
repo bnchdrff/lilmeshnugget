@@ -1,0 +1,8 @@
+{
+  "account": {
+    "jid": "user@host",
+    "password": "pass",
+    "room_jid": "room@host",
+    "room_nick": "nick"
+  }
+}
